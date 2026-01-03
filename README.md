@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vipin</h1>
+<h1 align="center">Hi 👋, I'm Om Ghare</h1>
 
 <h2 align="center">Full Stack Web & App Developer • MERN, React Native | Machine Learning | VLSI Design | IoT & Embedded Systems</h2>
 
