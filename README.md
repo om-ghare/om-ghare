@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Ghare</h1>
 
 # 💫 About Me:
-I am an Electronics and Communication Engineering (ECE) student with a strong focus on IoT, Embedded Systems, and Full Stack Development. My interests lie in the fusion of hardware and software—ranging from circuit design and signal processing to programming and system integration. My goal is to not just understand how how technologies work but also to innovating and improving them, I continuously explore new advancements in electronics and computing, aiming to contribute to impactful solutions in the field. 🚀<br>
+I am an Electronics and Communication Engineering (ECE) student with a strong focus on IoT, Embedded Systems, and Full Stack Development. My interests lie in the fusion of hardware and software covering topics from circuit design and signal processing to programming and system integration. My goal is to not just understand how how technologies work but also to innovating and improving them, I continuously explore new advancements in electronics and computing, aiming to contribute to impactful solutions in the field. 🚀<br>
 
 
 ## 🌐 Socials:
