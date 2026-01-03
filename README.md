@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Ghare</h1>
 
-<h2 align="center">Full Stack Web & App Developer • MERN, React Native | Machine Learning | VLSI Design | IoT & Embedded Systems</h2>
-
 # 💫 About Me:
 I'm an Electronics and Communication Engineering (ECE) student with a passion for IoT, Embedded Systems, and skilled in Full Stack Development. I'm passionate about the fusion of electronics and software, exploring everything from circuit design to programming. My goal is to not just understand how things work but to improve and innovate, and I'm always eager to learn and explore new innovations. 🚀<br>
 
