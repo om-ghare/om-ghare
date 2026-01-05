@@ -17,7 +17,4 @@ I am an Electronics and Communication Engineering (ECE) student with a strong fo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=om-ghare&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
