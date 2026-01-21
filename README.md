@@ -13,6 +13,3 @@ I am an Electronics and Communication Engineering (ECE) student with a strong fo
 ![](https://github-readme-stats.vercel.app/api?username=om-ghare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=om-ghare&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=om-ghare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=om-ghare&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4)
